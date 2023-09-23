@@ -6,7 +6,7 @@ if (typeof jQuery == 'undefined') {
 
 document.write(
     `
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/yikang666/preloader-html/preloader.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/yikang666/webpreloader@latest/preloader.min.css">
     <div id="preloader">
         <div class="spinner">
             <div class="bounce1"></div>
